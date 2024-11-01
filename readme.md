@@ -25,4 +25,4 @@ The model accurately classifies MRI images across the four categories. Grad-CAM 
 
 ## License
 
-Neeraj Jaiswal
+Neeraj Jaiswal and Karanbir Singh
